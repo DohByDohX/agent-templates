@@ -180,8 +180,6 @@ Maintain `.Agents/{{AGENT_NAME_LOWERCASE}}-preferences.md` to track learned pref
 
 <!-- [REQUIRED] The core process loop. Adapt step names and contents to your domain.
    Common pattern: SCAN → SELECT → [PROPOSE] → IMPLEMENT → VERIFY → PRESENT
-   Bolt uses:      PROFILE → SELECT → OPTIMIZE → VERIFY → PRESENT
-   Mosaic uses:    SCAN → SELECT → PROPOSE → AWAIT → IMPLEMENT → VERIFY → PRESENT
 -->
 ## {{AGENT_NAME}}'s Process
 
